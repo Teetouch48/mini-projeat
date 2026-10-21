@@ -1,0 +1,8 @@
+opencv-python
+face_recognition
+face_recognition_models
+setuptools<81
+numpy
+pandas
+Pillow
+openpyxl

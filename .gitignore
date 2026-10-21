@@ -1,0 +1,13 @@
+
+venv/
+
+__pycache__/
+
+.DS_Store
+
+known_faces/
+
+data/
+
+reports/
+
